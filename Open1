@@ -1,0 +1,41 @@
+game:GetService("ReplicatedStorage").Remotes.Events.FeedEggEvent:FireServer(A_8)
+game:GetService("ReplicatedStorage").Remotes.Events.HatchEggEvent:FireServer()
+
+local ohString1 = "1"
+local ohString2 = "8"
+
+game:GetService("ReplicatedStorage").Remotes.Events.PlantEggEvent:FireServer(ohString1, ohString2)
+
+local ohString1 = "1"
+
+game:GetService("ReplicatedStorage").Remotes.Events.PlantEggEvent:FireServer(ohString1)
+
+local ohString1 = "1"
+
+game:GetService("ReplicatedStorage").Remotes.Events.PlantEggEvent:FireServer(ohString1)
+
+local ohString1 = "1"
+
+game:GetService("ReplicatedStorage").Remotes.Events.PlantEggEvent:FireServer(ohString1)
+
+local ohString1 = "1"
+
+game:GetService("ReplicatedStorage").Remotes.Events.PlantEggEvent:FireServer(ohString1)
+
+local ohString1 = "1"
+
+game:GetService("ReplicatedStorage").Remotes.Events.PlantEggEvent:FireServer(ohString1)
+
+local ohString1 = "1"
+
+game:GetService("ReplicatedStorage").Remotes.Events.PlantEggEvent:FireServer(ohString1)
+
+local ohString1 = "1"
+
+game:GetService("ReplicatedStorage").Remotes.Events.PlantEggEvent:FireServer(ohString1)
+
+local ohString1 = "1"
+
+game:GetService("ReplicatedStorage").Remotes.Events.PlantEggEvent:FireServer(ohString1)
+
+game:GetService("ReplicatedStorage").Remotes.Events.FeedEggEvent:FireServer(A_8)
